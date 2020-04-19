@@ -1,0 +1,1 @@
+This is project for understanding the portal in weblogic oracle example
